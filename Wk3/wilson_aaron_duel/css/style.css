@@ -12,27 +12,27 @@ body{
 	height: 100%;
 }
 
-#kabal{
+#alienman{
 	margin: 0px 0px 0px 15%;
 	float:left;
 }
 
-#kratos{
+#darklord{
 	margin: 0px 0px 0px 40%;
 	float:left;
 }
 
-#kabal p{
+#alienman p{
 	font-family: arial;
 	font-size:  25px;
 }
 
-#kratos p{
+#darklord p{
 	font-family: arial;
 	font-size:  25px;
 }
 
-#fight_btn{
+#battle_btn{
 	position: absolute;
 	z-index: 25;
 	margin: 30% 44%;
