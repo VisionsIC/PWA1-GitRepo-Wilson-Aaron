@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac034ad2-7e46-42bf-a88e-7f785a7a42c0" name="Default" comment="update 1  week 2 Duel 2">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Wk3/wilson_aaron_duel/duelapp.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Wk3/wilson_aaron_debug.zip" afterPath="$PROJECT_DIR$/../../../Wk3/wilson_aaron_debug.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Wk3/wilson_aaron_duel/js/dueltest.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Wk3/wilson_aaron_duel/duelapp.html" afterPath="$PROJECT_DIR$/../../../Wk3/wilson_aaron_duel/duelapp.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Wk3/wilson_aaron_duel/index.html" afterPath="$PROJECT_DIR$/../../../Wk3/wilson_aaron_duel/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Wk3/wilson_aaron_duel/js/main.js" afterPath="$PROJECT_DIR$/../../../Wk3/wilson_aaron_duel/js/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Wk3/wilson_aaron_duel/css/style.css" afterPath="$PROJECT_DIR$/../../../Wk3/wilson_aaron_duel/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -30,11 +31,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../../Wk3/wilson_aaron_duel/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3660">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="1498" max-vertical-offset="3660">
+              <caret line="145" column="57" selection-start-line="145" selection-start-column="57" selection-end-line="145" selection-end-column="57" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -42,15 +43,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="dueltest.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../Wk3/wilson_aaron_duel/js/dueltest.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="578" max-vertical-offset="1500">
+              <caret line="55" column="71" selection-start-line="55" selection-start-column="71" selection-end-line="55" selection-end-column="71" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../../../Wk3/wilson_aaron_duel/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.6666665" vertical-offset="26" max-vertical-offset="660">
-              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding>
-                <marker date="1424713698000" expanded="true" signature="338:616" placeholder="..." />
-                <marker date="1424713698000" expanded="true" signature="365:534" placeholder="..." />
-              </folding>
+            <state vertical-scroll-proportion="0.62649167" vertical-offset="0" max-vertical-offset="838">
+              <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -58,11 +68,9 @@
       <file leaf-file-name="duelapp.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../../Wk3/wilson_aaron_duel/duelapp.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-18.916666" vertical-offset="56" max-vertical-offset="660">
-              <caret line="34" column="27" selection-start-line="10" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-              <folding>
-                <marker date="1424571819000" expanded="true" signature="22:111" placeholder="..." />
-              </folding>
+            <state vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="825">
+              <caret line="2" column="5" selection-start-line="0" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -79,8 +87,9 @@
         <option value="$PROJECT_DIR$/../../../Wk1/wilson_aaron_wk1_assign/js/main.js" />
         <option value="$PROJECT_DIR$/../../wilson_aaron_debug/js/search.js" />
         <option value="$PROJECT_DIR$/../../../Wk3/wilson_aaron_duel/duelapp.html" />
-        <option value="$PROJECT_DIR$/../../../Wk3/wilson_aaron_duel/index.html" />
+        <option value="$PROJECT_DIR$/../../../Wk3/wilson_aaron_duel/js/dueltest.js" />
         <option value="$PROJECT_DIR$/../../../Wk3/wilson_aaron_duel/js/main.js" />
+        <option value="$PROJECT_DIR$/../../../Wk3/wilson_aaron_duel/index.html" />
       </list>
     </option>
   </component>
@@ -131,13 +140,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Wk3/wilson_aaron_duel/js/main.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../WK3/Assignments/duel/js" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="TODO_SCOPE" value="Project Files" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../../../../../WK3/Assignments/duel/js" />
       <recent name="$PROJECT_DIR$/../../../Wk3/wilson_aaron_debug/js" />
       <recent name="$PROJECT_DIR$/../../wilson_aaron_debug/js" />
       <recent name="$PROJECT_DIR$/../../wilson_aaron_wk2_assign/js" />
@@ -227,7 +237,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="23" width="685" height="1014" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32885906" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -240,7 +250,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32997763" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.028744327" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.028744327" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -305,34 +315,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Wk3/wilson_aaron_duel/js/dueltest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="578" max-vertical-offset="1500">
+          <caret line="55" column="71" selection-start-line="55" selection-start-column="71" selection-end-line="55" selection-end-column="71" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../../../Wk3/wilson_aaron_duel/duelapp.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-18.916666" vertical-offset="56" max-vertical-offset="660">
-          <caret line="34" column="27" selection-start-line="10" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+        <state vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="825">
+          <caret line="2" column="5" selection-start-line="0" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Wk3/wilson_aaron_duel/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1498" max-vertical-offset="3660">
+          <caret line="145" column="57" selection-start-line="145" selection-start-column="57" selection-end-line="145" selection-end-column="57" />
           <folding>
-            <marker date="1424571819000" expanded="true" signature="22:111" placeholder="..." />
+            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../../../Wk3/wilson_aaron_duel/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.6666665" vertical-offset="26" max-vertical-offset="660">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <marker date="1424713698000" expanded="true" signature="338:616" placeholder="..." />
-            <marker date="1424713698000" expanded="true" signature="365:534" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../Wk3/wilson_aaron_duel/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3660">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.62649167" vertical-offset="0" max-vertical-offset="838">
+          <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>
