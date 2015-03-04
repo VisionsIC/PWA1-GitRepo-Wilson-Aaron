@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac034ad2-7e46-42bf-a88e-7f785a7a42c0" name="Default" comment="update 1  week 2 Duel 2">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Wk3/wilson_aaron_duel/js/dueltest.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Wk3/wilson_aaron_duel/duelapp.html" afterPath="$PROJECT_DIR$/../../../Wk3/wilson_aaron_duel/duelapp.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Wk3/wilson_aaron_duel/index.html" afterPath="$PROJECT_DIR$/../../../Wk3/wilson_aaron_duel/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Wk3/wilson_aaron_duel/js/main.js" afterPath="$PROJECT_DIR$/../../../Wk3/wilson_aaron_duel/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Wk3/wilson_aaron_duel/css/style.css" afterPath="$PROJECT_DIR$/../../../Wk3/wilson_aaron_duel/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../Wk3/wilson_aaron_duel/duelapp.html" afterPath="" />
     </list>
     <ignored path="Debug.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -60,16 +55,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.62649167" vertical-offset="0" max-vertical-offset="838">
               <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="duelapp.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../../Wk3/wilson_aaron_duel/duelapp.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="825">
-              <caret line="2" column="5" selection-start-line="0" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -322,14 +307,6 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../Wk3/wilson_aaron_duel/duelapp.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="825">
-          <caret line="2" column="5" selection-start-line="0" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
